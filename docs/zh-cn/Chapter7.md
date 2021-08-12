@@ -89,7 +89,7 @@ $$
 
 方程(7.9)的反演可以通过多种方式实现。其中一类是计算与介质弹性参数相关的面波群速度和相速度的线性敏感核(e.g., Herrmann, 2013)。频散曲线的1D深度反演是一个相对低维度的问题，因此可以通过对模型的参数空间进行统计探索，采用Monte-Carlo类型的方法进行求解(e.g., Shapiro and Ritzwoller, 2002; Yang et al., 2008; Moschetti et al., 2010)。这种方法包含了许多随机生成的模型$m$(速度剖面$V_{S}(z)$)，然后根据方程(7.9)计算频散曲线，并与观测数据$d$进行比较，用以选择一组与观测值非常吻合的模型。近年来，随着算力的提高，使得我们可以求解数以万计的正演问题，让这类方法变得十分流行。图7.3c-d给出了一个群速度的Monte-Carlo反演示例。
 
-![](.\Fig\Chapter7\Figure 7.3..png)
+<div align=center><img src="https://carlolev.oss-cn-beijing.aliyuncs.com/SeismicAmbientNoise/Figure%207.3..png"/>
 
 ##### 7.2.1 “稀疏”台阵下的ANSWT
 
