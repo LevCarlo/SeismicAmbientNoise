@@ -4,7 +4,7 @@
 
 ### 关于这本书
 
-《Seismic Ambient Noise》是一本关于地震环境噪声的优秀著作。对该书的翻译始于2020年因新冠疫情赋闲在家，与朋友Yang Li闲聊时萌生的想法。
+[《Seismic Ambient Noise》](https://www.cambridge.org/core/books/seismic-ambient-noise/6D9AE0CC68897330A27DB7FF92ABAACF)是一本关于地震环境噪声的优秀著作。对该书的翻译始于2020年因新冠疫情赋闲在家，与朋友Yang Li闲聊时萌生的想法。
 
 [开始阅读](http://carlolev.cn/SeismicAmbientNoise/)……
 
@@ -19,3 +19,4 @@
 
 
 <div align=center><img src="https://assets.cambridge.org/97811084/17082/cover/9781108417082.jpg" style="zoom:200%;" />
+
